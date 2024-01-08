@@ -15,3 +15,13 @@
     src: url(/fonts/circular/circular-light.ttf);
 }
 
+:root {
+    --grey-med: #ddd;
+    --grey-light: #f7f7f7;
+    --grey-text-light: #717171;
+    --grey-text-dark: #222;
+    --pink: #ff385c;
+}
+
+
+
