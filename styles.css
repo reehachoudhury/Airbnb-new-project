@@ -23,5 +23,18 @@
     --pink: #ff385c;
 }
 
+body {
+    color: #222;
+    font-family: 'Circular Book';
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: normal;
+    line-height: 18px;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+
 
 
