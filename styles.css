@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family: 'Circular Book';
-    src: url(/fonts/circular/circular-book.otf);
+    src: url(/fonts/circular/circular-book.ttf);
 }
 @font-face {
     font-family: 'Circular Bold';
-    src: url(/fonts/circular/circular-bold.otf);
+    src: url(/fonts/circular/circular-bold.ttf);
 }
 @font-face {
     font-family: 'Circular Light';
