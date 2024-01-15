@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'Circular Medium';
-    src: url(/fonts/circular/circular-medium.ttf);
+    src: url(circular-medium.ttf);
 }
 @font-face {
     font-family: 'Circular Book';
-    src: url(/fonts/circular/circular-book.ttf);
+    src: url(circular-book.ttf);
 }
 @font-face {
     font-family: 'Circular Bold';
-    src: url(/fonts/circular/circular-bold.ttf);
+    src: url(circular-bold.ttf);
 }
 @font-face {
     font-family: 'Circular Light';
-    src: url(/fonts/circular/circular-light.ttf);
+    src: url(circular-light.ttf);
 }
 
 :root {
