@@ -101,6 +101,35 @@ header {
     margin-left: 16px;
 }
 
+footer {
+    background: var(--grey-light);
+    border-top: 1px solid var(--grey-med);
+    padding: 30px 0;
+}
+
+.container {
+    max-width: 1200px;
+	display: flex;
+    flex-direction: column;
+	margin: auto;
+	justify-content: space-between;
+}
+
+.container h4 {
+    text-transform: none;
+	font-size: 12px;
+}
+
+.container ul {
+    list-style-type: none;
+	padding-left: 0;
+}
+
+.container li {
+    margin-bottom: 15px;
+	font-family: 'Circular Book';
+}
+
 
 
 
