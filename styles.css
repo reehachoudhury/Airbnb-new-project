@@ -23,6 +23,10 @@
     --pink: #ff385c;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     color: #222;
     font-family: 'Circular Book';
@@ -55,6 +59,7 @@ header {
     background-color: white;
     margin: auto;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 1px 12px;
+    
 }
 
 .search-icon {
@@ -68,7 +73,8 @@ header {
     margin-left: 16px;
 }
 
-.search-bar-text {
+.search-bar-text > h1 {
+    align-items: left;
 
 }
 
